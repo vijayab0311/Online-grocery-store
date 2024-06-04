@@ -1,8 +1,13 @@
-# online-shopping-webvsite-in-php
+# online-grocery-store-in-php
 
 Shopping Cart System is the Simple shopping Solution. It’s a full-featured website and shopping cart system that bends over backwards to give you the flexibility you need to runyour online store.
 
 The basic concept of the application is to allow the customer to shop virtually using the Internet and allow customers to buy the items and articles of their desire from the store.
+# Output Screenshot :
+# Home page:
+![Screenshot 01](https://github.com/Jayabodhankar03/Online-grocery-store/assets/119877899/e6f58b84-5aec-4414-bb79-da8cea9828a2)
+# Product page:
+![screenshot](https://github.com/Jayabodhankar03/Online-grocery-store/assets/119877899/9c3c4825-d1d5-4202-a7f2-ceb387a1cbf2)
 
 The information pertaining to the products are stores on an RDBMS at the server side (store). The Server process the customers and the items are shipped to the address submitted by them. The details of the items are brought forward from the database for the customer view based on the selection through the menu and the database of all the products are updated at the end of each transaction.
 
@@ -42,19 +47,4 @@ WAMP Server
 XAMPP Server
 MAMP Server
 LAMP Server
-Installation Steps
-Download zip file and Unzip file on your local server.
-Put this file inside “c:/wamp/www/” .
-Database Configuration:
-Open phpmyadmin
-Create Database named “shop”.
-Import database shop.sql.
-Open Your browser put inside URL:
-“http://localhost/store/”
-To Login as admin put inside URL:”http://localhost/store”
-user login details:
-Login Id: yugeshverma@gmail.com
-Password:123456
 
-
-visit- https://projkectworlds.in
